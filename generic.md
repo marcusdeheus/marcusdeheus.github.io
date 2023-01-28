@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: OFFICE
+description: Our office in Duesseldorf
 image: assets/images/DSCN3053.JPG
 nav-menu: true
 ---

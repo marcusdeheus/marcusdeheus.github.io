@@ -10,7 +10,7 @@ city: Duesseldorf
 state: NRW
 zip_code: 40221
 country: Germany
-phone: +49 211 13866-436
+phone: +49 211 13866-444
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

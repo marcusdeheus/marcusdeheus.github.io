@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'We are looking forward to welcome you in our offices.'
-image: assets/images/ppanorama-5362425.jpg
+image: assets/images/architecture-175609.jpg
 nav-menu: true
 ---
 

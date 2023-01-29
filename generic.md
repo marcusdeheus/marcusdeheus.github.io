@@ -1,8 +1,8 @@
 ---
 layout: post
-title: OFFICE
-description: Our office in Duesseldorf
-image: assets/images/DSCN3053.JPG
+title: CONTACT
+description: Marcus de Heus
+image: assets/images/IMG_8810.JPG
 nav-menu: true
 ---
 

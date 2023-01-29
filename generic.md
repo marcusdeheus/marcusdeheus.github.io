@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CONTACT
+title: ABOUT
 description: Marcus de Heus
 image: assets/images/IMG_8810.JPG
 nav-menu: true

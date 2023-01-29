@@ -1,7 +1,7 @@
 # site settings
 title: KAP1
 subtitle: by Marcus de Heus
-email: marcus.deheus@kap1.eu
+email: info@kap1consulting.de
 description: Top Talents for Corporate Functions.
 url: # the base hostname & protocol for your site
 author:
@@ -26,7 +26,7 @@ socials:
   Google-Plus: https://plus.google.com/u/0/+marcusdeheus
   Instagram:
   LinkedIn: https://www.linkedin.com/in/marcus-de-heus-73a4831/
-  Xing: https://www.xing.com/profile/Marcus_deHeus/
+  Xing: https://www.xing.com/profile/Marcus_deHeus/cv 
   Twitter: 
   Facebook:
   Slack:
@@ -42,3 +42,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- elements.md

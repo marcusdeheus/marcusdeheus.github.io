@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-We assist multinational companies in attracting outstanding talents from top management consultancies for management functions in the areas of strategy, corporate development, and m&a, as well as civil, mechanical, and electrical engineers for more technically oriented management functions.
+Due to our extensive network in the consulting industry, we have a distinctive advantage in attracting outstanding talents from top management consultancies for management functions in the areas of strategy, corporate development, and m&a, as well as civil, mechanical, and electrical engineers for more technically oriented management functions.

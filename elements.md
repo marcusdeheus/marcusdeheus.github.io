@@ -103,24 +103,71 @@ correspondence and conversation data (e.g. e-mails, faxes, letters, notes on tel
 other usage data (e.g. websites visited on our website, interest in our services), meta/communication data (e.g. device information, IP addresses).</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>WHOSE data is collected</h3>
-		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+		<h3>HOW do we collect data?</h3>
+		<p>We primarily collect data by you communicating it to us. This may involve data that you enter in a contact form, send by e-mail or transmit to us by telephone. Other data is automatically collected by our IT systems when you visit our website. These are mainly technical data (e.g. Internet browser, operating system or time of the page call). This data is collected automatically as soon as you enter our website. Other data (e.g. contact information of business partners) come from publicly accessible sources such as the company website.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>WHOSE data is collected</h3>
-		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+		<h3>CONTACT US</h3>
+		<p>When you contact us (e.g. by telephone, contact form or e-mail), your details including your contact data will be stored by us for the purpose of processing the enquiry and in the event of follow-up questions. We do not pass on this data without your consent.
+
+The processing of the data transmitted to us will therefore take place exclusively on the basis of your consent in accordance with Art. 6 Para. 1 a) DSGVO. You can revoke this consent at any time. For this purpose, an informal notification by e-mail to us is sufficient. The legality of the data processing operations carried out until the revocation remains unaffected by the revocation.
+
+The data you transmit to us will remain with us until you request deletion, revoke your consent to storage or the purpose for data storage no longer applies (e.g. after your request has been processed). Mandatory legal provisions - in particular retention periods - remain unaffected.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>WHOSE data is collected</h3>
-		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+		<h3>WHAT is data used for?</h3>
+		<p>A part of the personal data is collected to ensure an error-free provision of our online offer. Other personal data is required for answering contact enquiries and for communication with users of our online and service offerings. We need other data for the qualified consultation of clients and candidates as well as for the filling of vacant positions with our clients with suitable candidates. In addition, we collect personal data for the purpose of providing contractual services, customer care and service, marketing, advertising and market research.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>WHOSE data is collected</h3>
-		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+		<h3>DISCLOSURE to THIRD PARTIES</h3>
+		<p>Data will only be passed on to third parties within the framework of legal requirements. We only pass on user data to third parties if this is done, for example, on the basis of Art. 6 para. 1 lit. b. DSGVO is necessary for contractual purposes or on the basis of legitimate interests pursuant to Art. 6 Para. 1 lit. f. DSGVO in the economic and effective operation of our business.
+
+Application data will generally only be forwarded to the internal departments of our company responsible for the application procedure. Application data will only be passed on to external recipients or other third parties if the applicant has expressly given his prior consent to the passing on of his data. Personal data will not be passed on to third parties beyond this.
+
+If we use subcontractors to provide our services, we take appropriate legal precautions as well as appropriate technical and organizational measures to ensure the protection of personal data in accordance with the relevant statutory provisions.
+
+We only transmit personal data to service providers and other third parties outside the European Economic Area (EEA) under certain conditions: The user has expressly given his consent to the transfer of data to a third country, or the EU Commission must confirm an appropriate level of data protection to the third country in question, or other appropriate data protection guarantees (e.g. binding internal company data protection regulations of the EU standard contract clauses) must be in place.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>WHOSE data is collected</h3>
-		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+		<h3>COOKIES</h3>
+		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>HYPERLINKS</h3>
+		<p>Some of our websites contain hyperlinks to websites of other providers. When activated, you will be redirected from our website directly to the website of other providers. You will recognize this by the change of URL, among other things. We cannot assume any responsibility for the handling of your data on these external websites, since we have no influence on the data processing of those companies. Please inform yourself directly on the websites of the companies about the use of your data.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>SECURITY MEASURES</h3>
+		<p>KAP1 takes organizational, contractual and technical security measures in accordance with the state of the art to ensure that the regulations of the data protection laws are observed and to protect the data processed by us against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons.
+
+The security measures include in particular the encrypted transmission of data between your browser and our server. Our website uses SSL or TLS encryption to protect the transmission of confidential content, such as requests that you send to us as the site operator. You can recognize an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" or by the lock symbol in your browser line.
+
+However, we would like to point out that, due to the structure of the Internet, it is possible that the rules of data protection and the above-mentioned security measures may not be observed or circumvented by persons or institutions outside our area of responsibility. In particular, unencrypted data can be read by third parties - even if this is done by e-mail. We have no technical influence on this. Nowadays, it is also your responsibility to protect the data you provide against misuse by encrypting it or in any other way.
+
+For this reason, every user is free to transmit personal data to us by alternative means, e.g. by telephone.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHAT RIGHTS DO YOU HAVE REGARDING YOUR DATA?</h3>
+		<p>Right of information
+You have the right to request confirmation as to whether personal data relating to you are being processed and to request information about this data and further information and a copy of the data in accordance with Art. 15 DSGVO.
+
+The right to complete and rectify data
+In accordance with Art. 16 DSGVO, you have the right to request the completion of data concerning you or the correction of incorrect data concerning you.
+
+The right to erase and block data
+Pursuant to Art. 17 DSGVO, you have the right to demand that data concerning you be deleted immediately or, alternatively, to demand a restriction on the processing of the data pursuant to Art. 18 DSGVO.
+
+Right to data transferability
+You have the right to demand that we receive the data concerning you that you have provided to us in accordance with Art. 20 DSGVO and to demand that it be transferred to other responsible parties.
+
+Right of appeal to the competent supervisory authority
+In the event of infringements of data protection law, the data subject has the right to appeal to the competent supervisory authority pursuant to Art. 77 DSGVO. The competent supervisory authority for data protection issues is the data protection officer of the federal state in which our company is based. A list of the data protection officers and their contact details can be found at the following link: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+
+Right of revocation
+Many data processing operations are only possible with your express consent. You can revoke an already given consent according to article 7 paragraph 3 DSGVO at any time with effect for the future. For this purpose, an informal e-mail notification to us is sufficient. The legality of the data processing carried out until the revocation remains unaffected by the revocation.
+
+Right of objection
+You may object at any time to the future processing of the data concerning you in accordance with Art. 21 DSGVO. In particular, you may object to the processing of your data for the purposes of direct marketing.</p>
 	</div>
 </div>
 

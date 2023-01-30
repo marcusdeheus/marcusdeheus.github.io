@@ -17,28 +17,28 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">IMPRINT</h2>
-<p>KAP1 Consulting
-Marcus de Heus e.K.
-Koenigsallee 14
+<p>KAP1 Consulting<br>
+Marcus de Heus e.K.<br>
+Koenigsallee 14<br>
 D-40212 Duesseldorf
 
-Tel. +49 211 13866-436
+Tel. +49 211 13866-436<br>
 Fax +49 211 13866-439
 
-info@kap1consulting.de
+info@kap1consulting.de<br>
 www.kap1consulting.com
 
-Place of Judgement / Registergericht
-Registergericht Duesseldorf HRA 17508
+Place of Judgement / Registergericht<br>
+Registergericht Duesseldorf HRA 17508<br>
 D-40002 Duesseldorf
 
-VAT ID no / Umsatzsteuer-Identifikationsnummer
+VAT ID no / Umsatzsteuer-Identifikationsnummer<br>
 DE 239760772
 
-'KAP1 Consulting' is a registered trademark / eingetragene Marke
+'KAP1 Consulting' is a registered trademark / eingetragene Marke<br>
 Reg. Nr. 30517107.0, registered 21.10.2005
 
-Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV
+Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV<br>
 Marcus de Heus.</p>
 <div class="row">
 	<div class="6u 12u$(small)">

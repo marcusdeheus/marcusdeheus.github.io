@@ -200,5 +200,5 @@ E-mail: peter-franken-dsb@t-online.de.</p>
 		<h3>State of the privacy policy</h3>
 		<p>January 2023</p>
 	</div>
-</div>
+
 

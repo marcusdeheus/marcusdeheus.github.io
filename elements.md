@@ -42,8 +42,9 @@ Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV
 Marcus de Heus.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>PRIVACY</h3>
+		<p>The safety of your personal data, including your address, phone number or email, and the protection of your privacy are of the highest priority for us. For this reason, we conduct all of our web-based services in accordance with current privacy and data protection regulations.
+We will not collect any personal data via our website without your consent. You decide whether to disclose such data to us in the course of registering, ordering products etc. Your data will only be used, stored and processed to the extent required or permitted by your consent, by federal data protection regulations and/or any additional legal requirements.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>

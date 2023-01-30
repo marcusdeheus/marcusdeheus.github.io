@@ -169,5 +169,21 @@ Many data processing operations are only possible with your express consent. You
 Right of objection<br>
 You may object at any time to the future processing of the data concerning you in accordance with Art. 21 DSGVO. In particular, you may object to the processing of your data for the purposes of direct marketing.</p>
 	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>COOKIES</h3>
+		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>COOKIES</h3>
+		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>COOKIES</h3>
+		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>COOKIES</h3>
+		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+	</div>
 </div>
 

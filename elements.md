@@ -102,6 +102,7 @@ application data (e.g. curriculum vitae, references, certificates, letters of ap
 correspondence and conversation data (e.g. e-mails, faxes, letters, notes on telephone contacts)
 other usage data (e.g. websites visited on our website, interest in our services), meta/communication data (e.g. device information, IP addresses).</p>
 	</div>
+	<div class="row">
 	<div class="4u$ 12u$(medium)">
 		<h3>HOW do we collect data?</h3>
 		<p>We primarily collect data by you communicating it to us. This may involve data that you enter in a contact form, send by e-mail or transmit to us by telephone. Other data is automatically collected by our IT systems when you visit our website. These are mainly technical data (e.g. Internet browser, operating system or time of the page call). This data is collected automatically as soon as you enter our website. Other data (e.g. contact information of business partners) come from publicly accessible sources such as the company website.</p>

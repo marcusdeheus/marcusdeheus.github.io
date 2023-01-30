@@ -24,20 +24,20 @@ D-40212 Duesseldorf<br>
 <br>
 Tel. +49 211 13866-436<br>
 Fax +49 211 13866-439<br>
-
+<br>
 info@kap1consulting.de<br>
 www.kap1consulting.com<br>
-
+<br>
 Place of Judgement / Registergericht<br>
 Registergericht Duesseldorf <br>HRA 17508<br>
 D-40002 Duesseldorf<br>
-
+<br>
 VAT ID no / Umsatzsteuer-Identifikationsnummer<br>
 DE 239760772<br>
-
+<br>
 'KAP1 Consulting' is a registered trademark / eingetragene Marke<br>
 Reg. Nr. 30517107.0, registered 21.10.2005<br>
-
+<br>
 Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV<br>
 Marcus de Heus.</p>
 <div class="row">

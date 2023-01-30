@@ -40,7 +40,7 @@ Reg. Nr. 30517107.0, registered 21.10.2005<br>
 <br>
 Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV<br>
 Marcus de Heus.</p>
-<div class="row">
+
 	<div class="6u 12u$(small)">
 		<h3>PRIVACY</h3>
 		<p>The safety of your personal data, including your address, phone number or email, and the protection of your privacy are of the highest priority for us. For this reason, we conduct all of our web-based services in accordance with current privacy and data protection regulations.
@@ -56,7 +56,7 @@ The contents of KAP1 Consulting Marcus de Heus e.K. are protected by copyright. 
 <br>
 © 2018 by KAP1 Consulting Marcus de Heus e.K.</p>
 	</div>
-<div class="row">
+
 	<div class="4u 12u$(medium)">
 		<h3>PRVACY POLICY</h3>
 		<p>Thank you for your interest in KAP1 and our privacy policy. The security of your personal data and the protection of your privacy have the highest priority for us. The following information will inform you about the processing of your personal data by KAP1 Consulting Marcus de Heus e.K. (hereinafter referred to as "KAP1") and the rights to which you are entitled under data protection law. Personal data are all data with which you can be personally identified.<br>
@@ -102,8 +102,8 @@ application data (e.g. curriculum vitae, references, certificates, letters of ap
 correspondence and conversation data (e.g. e-mails, faxes, letters, notes on telephone contacts)
 other usage data (e.g. websites visited on our website, interest in our services), meta/communication data (e.g. device information, IP addresses).</p>
 	</div>
-	<div class="row">
-	<div class="4u$ 12u$(medium)">
+
+		<div class="4u$ 12u$(medium)">
 		<h3>HOW do we collect data?</h3>
 		<p>We primarily collect data by you communicating it to us. This may involve data that you enter in a contact form, send by e-mail or transmit to us by telephone. Other data is automatically collected by our IT systems when you visit our website. These are mainly technical data (e.g. Internet browser, operating system or time of the page call). This data is collected automatically as soon as you enter our website. Other data (e.g. contact information of business partners) come from publicly accessible sources such as the company website.</p>
 	</div>

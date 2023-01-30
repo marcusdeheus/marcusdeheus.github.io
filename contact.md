@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="about.html" class="image">
 			<img src="{% link assets/images/DSCN3053.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,13 +32,13 @@ nav-menu: true
 				</header>
 				<p>From all motorways follow the signs to "Düsseldorf Innenstadt", then "Altstadt". Our office is located in the "Hohenzollernhaus" across the "Kaufhof" at the end of the "Kö", where you will also see the jewelry shop "Wempe" on ground floor.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="about.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="about.html" class="image">
 			<img src="{% link assets/images/Kö14.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -48,13 +48,13 @@ nav-menu: true
 				</header>
 				<p>Starting from the airport, please take the suburban train no. S11, leaving on Arrivals level near exit 5c or between exit 2a and 3b next to the Meeting Point/Information located at car park P3, to Düsseldorf Hauptbahnhof and continue with "From the main station".</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="about.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="about.html" class="image">
 			<img src="{% link assets/images/IMG_2769.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>Starting from the main station, please take the underground no. U75, U76, U78 or U79, direction Heinrich-Heine-Allee until the stop of the same name (the third one from the main station). Take the exit "Königsallee", just go along the "Theodor-Körner-Straße" passing the "Kaufhof" towards "Kö". Cross it and then you will already approach the "Hohenzollernhaus", where you will see the jewelry shop "Wempe" on ground floor.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="about.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

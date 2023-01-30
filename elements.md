@@ -68,11 +68,9 @@ Legal changes or changes to our internal company processes may result in an adap
 		<p>KAP1 Consulting Marcus de Heus e.K.<br>
 		Königsallee 14<br>
 		D-40212 Düsseldorf, Germany<br>
-
 		Phone: +49 211 13866-436<br>
 		info@kap1consulting.de.</p>
 	</div>
-</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>

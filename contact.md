@@ -1,6 +1,6 @@
 ---
 title: CONTACT
-layout: landing
+layout: contact
 description: 'We are looking forward to welcome you in our Duesseldorf office.'
 image: assets/images/architecture-175609.jpg
 nav-menu: true

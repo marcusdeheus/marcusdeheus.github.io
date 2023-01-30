@@ -170,20 +170,34 @@ Right of objection<br>
 You may object at any time to the future processing of the data concerning you in accordance with Art. 21 DSGVO. In particular, you may object to the processing of your data for the purposes of direct marketing.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>COOKIES</h3>
-		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+		<h3>DATA DELETION and DURATION OF STORAGE</h3>
+		<p>The data stored with us are deleted as soon as they are no longer required for their intended purpose (e.g. conclusion of a search mandate) and the deletion does not conflict with any statutory storage obligations or other legitimate interests of KAP1 - for example, an obligation to provide evidence in proceedings under the General Equal Treatment Act (Allgemeines Gleichbehandlungsgesetz - AGG) - or the user has expressly consented to longer storage.
+
+If an applicant has declared his consent to the storage of his personal data in our contact database, this data will be deleted as soon as the applicant revokes his consent to data storage by KAP1. Mandatory legal provisions - in particular retention periods - remain unaffected. KAP1 may also delete the data, e.g. because the successful placement of an applicant is no longer to be expected.
+
+If the user's data are not deleted because they are required for other and legally permissible purposes, their processing will be restricted. This means that the data will be blocked and not processed for other purposes. This applies, for example, to user data that must be stored for commercial or tax reasons.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>COOKIES</h3>
-		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+		<h3>FURTHER country-specific information</h3>
+		<p>Our website is aimed at users over the age of 18.
+This website does not recognize or interact with "Do Not Track" signals.
+We will notify you of any changes to the Privacy Policy by posting our newer Privacy Policy on this website.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>COOKIES</h3>
-		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+		<h3>PRIVACY OFFICER</h3>
+		<p>Your trust is extremely important to us. Therefore we are always available to answer your questions regarding the processing of your personal data. For example, you still have questions about this data protection declaration, want to delete your data or need information? Then please do not hesitate to contact us:
+
+Peter Franken<br>
+Peter Franken QM & Datenschutz<br>
+Raderthalgürtel 9<br>
+D-50968 Köln, Germany<br>
+
+Phone: +49 221 3172-2605<br>
+E-mail: peter-franken-dsb@t-online.de.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>COOKIES</h3>
-		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
+		<h3>State of the privacy policy</h3>
+		<p>January 2023</p>
 	</div>
 </div>
 

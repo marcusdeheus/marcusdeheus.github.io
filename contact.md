@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>From all motorways follow the signs to "Düsseldorf Innenstadt", then "Altstadt". Our office is located in the "Hohenzollernhaus" across the "Kaufhof" at the end of the "Kö", where you will also see the jewelry shop "Wempe" on ground floor.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="KAP1_directions.pdf" target="_blank" class="button">OPEN PDF</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>Starting from the airport, please take the suburban train no. S11, leaving on Arrivals level near exit 5c or between exit 2a and 3b next to the Meeting Point/Information located at car park P3, to Düsseldorf Hauptbahnhof and continue with "From the main station".</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="KAP1_directions.pdf" target="_blank" class="button">OPEN PDF</a></li>
 				</ul>
 			</div>
 		</div>

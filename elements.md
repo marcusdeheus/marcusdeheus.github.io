@@ -148,25 +148,25 @@ For this reason, every user is free to transmit personal data to us by alternati
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>WHAT RIGHTS DO YOU HAVE REGARDING YOUR DATA?</h3>
-		<p>Right of information
+		<p>Right of information<br>
 You have the right to request confirmation as to whether personal data relating to you are being processed and to request information about this data and further information and a copy of the data in accordance with Art. 15 DSGVO.
 
-The right to complete and rectify data
+The right to complete and rectify data<br>
 In accordance with Art. 16 DSGVO, you have the right to request the completion of data concerning you or the correction of incorrect data concerning you.
 
-The right to erase and block data
+The right to erase and block data<br>
 Pursuant to Art. 17 DSGVO, you have the right to demand that data concerning you be deleted immediately or, alternatively, to demand a restriction on the processing of the data pursuant to Art. 18 DSGVO.
 
-Right to data transferability
+Right to data transferability<br>
 You have the right to demand that we receive the data concerning you that you have provided to us in accordance with Art. 20 DSGVO and to demand that it be transferred to other responsible parties.
 
-Right of appeal to the competent supervisory authority
+Right of appeal to the competent supervisory authority<br>
 In the event of infringements of data protection law, the data subject has the right to appeal to the competent supervisory authority pursuant to Art. 77 DSGVO. The competent supervisory authority for data protection issues is the data protection officer of the federal state in which our company is based. A list of the data protection officers and their contact details can be found at the following link: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
-Right of revocation
+Right of revocation<br>
 Many data processing operations are only possible with your express consent. You can revoke an already given consent according to article 7 paragraph 3 DSGVO at any time with effect for the future. For this purpose, an informal e-mail notification to us is sufficient. The legality of the data processing carried out until the revocation remains unaffected by the revocation.
 
-Right of objection
+Right of objection<br>
 You may object at any time to the future processing of the data concerning you in accordance with Art. 21 DSGVO. In particular, you may object to the processing of your data for the purposes of direct marketing.</p>
 	</div>
 </div>

@@ -76,7 +76,6 @@ Legal changes or changes to our internal company processes may result in an adap
 		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<!-- Break -->
 		<h3>WHAT data is collected</h3>
 		<p>Log files
 As everywhere on the Internet, data traces of your use remain on the servers of our web hosting service providers when you call up our pages for technical reasons. The following data is transmitted by your Internet browser and recorded in so-called log files:
@@ -115,7 +114,6 @@ The processing of the data transmitted to us will therefore take place exclusive
 
 The data you transmit to us will remain with us until you request deletion, revoke your consent to storage or the purpose for data storage no longer applies (e.g. after your request has been processed). Mandatory legal provisions - in particular retention periods - remain unaffected.</p>
 	</div>
-	<!-- Break -->
 	<div class="4u$ 12u$(medium)">
 		<h3>WHAT is data used for?</h3>
 		<p>A part of the personal data is collected to ensure an error-free provision of our online offer. Other personal data is required for answering contact enquiries and for communication with users of our online and service offerings. We need other data for the qualified consultation of clients and candidates as well as for the filling of vacant positions with our clients with suitable candidates. In addition, we collect personal data for the purpose of providing contractual services, customer care and service, marketing, advertising and market research.</p>

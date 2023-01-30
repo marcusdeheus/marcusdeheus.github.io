@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>Starting from the main station, please take the underground no. U75, U76, U78 or U79, direction Heinrich-Heine-Allee until the stop of the same name (the third one from the main station). Take the exit "Königsallee", just go along the "Theodor-Körner-Straße" passing the "Kaufhof" towards "Kö". Cross it and then you will already approach the "Hohenzollernhaus", where you will see the jewelry shop "Wempe" on ground floor.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="KAP1_directions.pdf" target="_blank">Open</a></li>
 				</ul>
 			</div>
 		</div>

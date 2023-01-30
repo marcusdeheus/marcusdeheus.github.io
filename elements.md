@@ -56,7 +56,7 @@ The contents of KAP1 Consulting Marcus de Heus e.K. are protected by copyright. 
 <br>
 © 2018 by KAP1 Consulting Marcus de Heus e.K.</p>
 	</div>
-	<!-- Break -->
+	# <!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>PRVACY POLICY</h3>
 		<p>Thank you for your interest in KAP1 and our privacy policy. The security of your personal data and the protection of your privacy have the highest priority for us. The following information will inform you about the processing of your personal data by KAP1 Consulting Marcus de Heus e.K. (hereinafter referred to as "KAP1") and the rights to which you are entitled under data protection law. Personal data are all data with which you can be personally identified.<br>

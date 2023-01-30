@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IMPRINT / PRIVACY / DATA SECURITY
-image: assets/images/pic01.jpg
+image: assets/images/Hohenzollernhaus.jpg
 nav-menu: true
 ---
 

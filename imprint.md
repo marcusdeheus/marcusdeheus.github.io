@@ -75,42 +75,38 @@ Legal changes or changes to our internal company processes may result in an adap
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>WHAT data is collected</h3>
-		<p>Log files
-As everywhere on the Internet, data traces of your use remain on the servers of our web hosting service providers when you call up our pages for technical reasons. The following data is transmitted by your Internet browser and recorded in so-called log files:
-Date and time of access
-IP address of the client
-Port number
-Command method
-URI star and URI query
-Protocol status
-Win32 status
-time lapse
-Browser type/version
-Operating system used
-Error message including e-mail address.
-We or our web hosting service provider collect and store these log files (log files) exclusively for statistical purposes and for troubleshooting. These data in this form do not allow any conclusions about your person. A personal evaluation does not take place.
-
-Master data
-Personal data processed in the course of our business activities includes master data (e.g. names, addresses).
-contractual data (e.g. subject matter of contract, duration).
-payment data (e.g. bank details, payment history)
-contact data (e.g. telephone numbers, e-mail addresses)
-content data (e.g. text input in the contact form)
-application data (e.g. curriculum vitae, references, certificates, letters of application, other information on occupational qualifications, occupational wishes and preferences, actual salary and salary expectations, willingness to move and travel, time availability, blocking notices)
-correspondence and conversation data (e.g. e-mails, faxes, letters, notes on telephone contacts)
+		<p>Log files<br>
+As everywhere on the Internet, data traces of your use remain on the servers of our web hosting service providers when you call up our pages for technical reasons. The following data is transmitted by your Internet browser and recorded in so-called log files:<br>
+Date and time of access<br>
+IP address of the client<br>
+Port number<br>
+Command method<br>
+URI star and URI query<br>
+Protocol status<br>
+Win32 status<br>
+time lapse<br>
+Browser type/version<br>
+Operating system used<br>
+Error message including e-mail address.<br>
+We or our web hosting service provider collect and store these log files (log files) exclusively for statistical purposes and for troubleshooting. These data in this form do not allow any conclusions about your person. A personal evaluation does not take place.<br><br>
+Master data<br>
+Personal data processed in the course of our business activities includes master data (e.g. names, addresses).<br>
+contractual data (e.g. subject matter of contract, duration).<br>
+payment data (e.g. bank details, payment history)<br>
+contact data (e.g. telephone numbers, e-mail addresses)<br>
+content data (e.g. text input in the contact form)<br>
+application data (e.g. curriculum vitae, references, certificates, letters of application, other information on occupational qualifications, occupational wishes and preferences, actual salary and salary expectations, willingness to move and travel, time availability, blocking notices)<br>
+correspondence and conversation data (e.g. e-mails, faxes, letters, notes on telephone contacts)<br>
 other usage data (e.g. websites visited on our website, interest in our services), meta/communication data (e.g. device information, IP addresses).</p>
 	</div>
-</div>
 		<div class="6u$ 12u$(small)">
 		<h3>HOW do we collect data?</h3>
 		<p>We primarily collect data by you communicating it to us. This may involve data that you enter in a contact form, send by e-mail or transmit to us by telephone. Other data is automatically collected by our IT systems when you visit our website. These are mainly technical data (e.g. Internet browser, operating system or time of the page call). This data is collected automatically as soon as you enter our website. Other data (e.g. contact information of business partners) come from publicly accessible sources such as the company website.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>CONTACT US</h3>
-		<p>When you contact us (e.g. by telephone, contact form or e-mail), your details including your contact data will be stored by us for the purpose of processing the enquiry and in the event of follow-up questions. We do not pass on this data without your consent.
-
-The processing of the data transmitted to us will therefore take place exclusively on the basis of your consent in accordance with Art. 6 Para. 1 a) DSGVO. You can revoke this consent at any time. For this purpose, an informal notification by e-mail to us is sufficient. The legality of the data processing operations carried out until the revocation remains unaffected by the revocation.
-
+		<p>When you contact us (e.g. by telephone, contact form or e-mail), your details including your contact data will be stored by us for the purpose of processing the enquiry and in the event of follow-up questions. We do not pass on this data without your consent.<br>
+The processing of the data transmitted to us will therefore take place exclusively on the basis of your consent in accordance with Art. 6 Para. 1 a) DSGVO. You can revoke this consent at any time. For this purpose, an informal notification by e-mail to us is sufficient. The legality of the data processing operations carried out until the revocation remains unaffected by the revocation.<br>
 The data you transmit to us will remain with us until you request deletion, revoke your consent to storage or the purpose for data storage no longer applies (e.g. after your request has been processed). Mandatory legal provisions - in particular retention periods - remain unaffected.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -119,12 +115,9 @@ The data you transmit to us will remain with us until you request deletion, revo
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>DISCLOSURE to THIRD PARTIES</h3>
-		<p>Data will only be passed on to third parties within the framework of legal requirements. We only pass on user data to third parties if this is done, for example, on the basis of Art. 6 para. 1 lit. b. DSGVO is necessary for contractual purposes or on the basis of legitimate interests pursuant to Art. 6 Para. 1 lit. f. DSGVO in the economic and effective operation of our business.
-
-Application data will generally only be forwarded to the internal departments of our company responsible for the application procedure. Application data will only be passed on to external recipients or other third parties if the applicant has expressly given his prior consent to the passing on of his data. Personal data will not be passed on to third parties beyond this.
-
-If we use subcontractors to provide our services, we take appropriate legal precautions as well as appropriate technical and organizational measures to ensure the protection of personal data in accordance with the relevant statutory provisions.
-
+		<p>Data will only be passed on to third parties within the framework of legal requirements. We only pass on user data to third parties if this is done, for example, on the basis of Art. 6 para. 1 lit. b. DSGVO is necessary for contractual purposes or on the basis of legitimate interests pursuant to Art. 6 Para. 1 lit. f. DSGVO in the economic and effective operation of our business.<br>
+Application data will generally only be forwarded to the internal departments of our company responsible for the application procedure. Application data will only be passed on to external recipients or other third parties if the applicant has expressly given his prior consent to the passing on of his data. Personal data will not be passed on to third parties beyond this.<br>
+If we use subcontractors to provide our services, we take appropriate legal precautions as well as appropriate technical and organizational measures to ensure the protection of personal data in accordance with the relevant statutory provisions.<br>
 We only transmit personal data to service providers and other third parties outside the European Economic Area (EEA) under certain conditions: The user has expressly given his consent to the transfer of data to a third country, or the EU Commission must confirm an appropriate level of data protection to the third country in question, or other appropriate data protection guarantees (e.g. binding internal company data protection regulations of the EU standard contract clauses) must be in place.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -137,18 +130,15 @@ We only transmit personal data to service providers and other third parties outs
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>SECURITY MEASURES</h3>
-		<p>KAP1 takes organizational, contractual and technical security measures in accordance with the state of the art to ensure that the regulations of the data protection laws are observed and to protect the data processed by us against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons.
-
-The security measures include in particular the encrypted transmission of data between your browser and our server. Our website uses SSL or TLS encryption to protect the transmission of confidential content, such as requests that you send to us as the site operator. You can recognize an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" or by the lock symbol in your browser line.
-
-However, we would like to point out that, due to the structure of the Internet, it is possible that the rules of data protection and the above-mentioned security measures may not be observed or circumvented by persons or institutions outside our area of responsibility. In particular, unencrypted data can be read by third parties - even if this is done by e-mail. We have no technical influence on this. Nowadays, it is also your responsibility to protect the data you provide against misuse by encrypting it or in any other way.
-
+		<p>KAP1 takes organizational, contractual and technical security measures in accordance with the state of the art to ensure that the regulations of the data protection laws are observed and to protect the data processed by us against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons.<br>
+The security measures include in particular the encrypted transmission of data between your browser and our server. Our website uses SSL or TLS encryption to protect the transmission of confidential content, such as requests that you send to us as the site operator. You can recognize an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" or by the lock symbol in your browser line.<br>
+However, we would like to point out that, due to the structure of the Internet, it is possible that the rules of data protection and the above-mentioned security measures may not be observed or circumvented by persons or institutions outside our area of responsibility. In particular, unencrypted data can be read by third parties - even if this is done by e-mail. We have no technical influence on this. Nowadays, it is also your responsibility to protect the data you provide against misuse by encrypting it or in any other way.<br>
 For this reason, every user is free to transmit personal data to us by alternative means, e.g. by telephone.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>WHAT RIGHTS DO YOU HAVE REGARDING YOUR DATA?</h3>
 		<p>Right of information<br>
-You have the right to request confirmation as to whether personal data relating to you are being processed and to request information about this data and further information and a copy of the data in accordance with Art. 15 DSGVO.
+You have the right to request confirmation as to whether personal data relating to you are being processed and to request information about this data and further information and a copy of the data in accordance with Art. 15 DSGVO.<br>
 
 The right to complete and rectify data<br>
 In accordance with Art. 16 DSGVO, you have the right to request the completion of data concerning you or the correction of incorrect data concerning you.

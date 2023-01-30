@@ -64,7 +64,7 @@ The contents of KAP1 Consulting Marcus de Heus e.K. are protected by copyright. 
 Legal changes or changes to our internal company processes may result in an adaptation of this data protection declaration. We therefore ask you to read this data protection declaration regularly.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Data Processor responsible for data processing</h3>
+		<h3>DATA PROCESSOR responsible for data processing</h3>
 		<p>KAP1 Consulting Marcus de Heus e.K.<br>
 		Königsallee 14<br>
 		D-40212 Düsseldorf, Germany<br>
@@ -72,8 +72,55 @@ Legal changes or changes to our internal company processes may result in an adap
 		info@kap1consulting.de.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>WHOSE data is collected</h3>
+		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHAT data is collected</h3>
+		<p>Log files
+As everywhere on the Internet, data traces of your use remain on the servers of our web hosting service providers when you call up our pages for technical reasons. The following data is transmitted by your Internet browser and recorded in so-called log files:
+Date and time of access
+IP address of the client
+Port number
+Command method
+URI star and URI query
+Protocol status
+Win32 status
+time lapse
+Browser type/version
+Operating system used
+Error message including e-mail address.
+We or our web hosting service provider collect and store these log files (log files) exclusively for statistical purposes and for troubleshooting. These data in this form do not allow any conclusions about your person. A personal evaluation does not take place.
+
+Master data
+Personal data processed in the course of our business activities includes master data (e.g. names, addresses).
+contractual data (e.g. subject matter of contract, duration).
+payment data (e.g. bank details, payment history)
+contact data (e.g. telephone numbers, e-mail addresses)
+content data (e.g. text input in the contact form)
+application data (e.g. curriculum vitae, references, certificates, letters of application, other information on occupational qualifications, occupational wishes and preferences, actual salary and salary expectations, willingness to move and travel, time availability, blocking notices)
+correspondence and conversation data (e.g. e-mails, faxes, letters, notes on telephone contacts)
+other usage data (e.g. websites visited on our website, interest in our services), meta/communication data (e.g. device information, IP addresses).</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHOSE data is collected</h3>
+		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHOSE data is collected</h3>
+		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHOSE data is collected</h3>
+		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHOSE data is collected</h3>
+		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>WHOSE data is collected</h3>
+		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
 	</div>
 </div>
 

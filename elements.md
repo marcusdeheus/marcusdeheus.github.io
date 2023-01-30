@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Elements
+title: IMPRINT & PRIVACY / DATA SECURITY
 image: assets/images/pic01.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->
@@ -16,8 +16,30 @@ nav-menu: false
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">IMPRINT</h2>
+<p>KAP1 Consulting
+Marcus de Heus e.K.
+Koenigsallee 14
+D-40212 Duesseldorf
+
+Tel. +49 211 13866-436
+Fax +49 211 13866-439
+
+info@kap1consulting.de
+www.kap1consulting.com
+
+Place of Judgement / Registergericht
+Registergericht Duesseldorf HRA 17508
+D-40002 Duesseldorf
+
+VAT ID no / Umsatzsteuer-Identifikationsnummer
+DE 239760772
+
+'KAP1 Consulting' is a registered trademark / eingetragene Marke
+Reg. Nr. 30517107.0, registered 21.10.2005
+
+Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV
+Marcus de Heus.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>

@@ -58,12 +58,19 @@ The contents of KAP1 Consulting Marcus de Heus e.K. are protected by copyright. 
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>PRVACY POLICY</h3>
+		<p>Thank you for your interest in KAP1 and our privacy policy. The security of your personal data and the protection of your privacy have the highest priority for us. The following information will inform you about the processing of your personal data by KAP1 Consulting Marcus de Heus e.K. (hereinafter referred to as "KAP1") and the rights to which you are entitled under data protection law. Personal data are all data with which you can be personally identified.<br>
+<br>
+Legal changes or changes to our internal company processes may result in an adaptation of this data protection declaration. We therefore ask you to read this data protection declaration regularly.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Data Processor responsible for data processing</h3>
+		<p>KAP1 Consulting Marcus de Heus e.K.<br>
+		Königsallee 14<br>
+		D-40212 Düsseldorf, Germany<br>
+
+		Phone: +49 211 13866-436<br>
+		info@kap1consulting.de.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>

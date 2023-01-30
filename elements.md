@@ -57,13 +57,13 @@ The contents of KAP1 Consulting Marcus de Heus e.K. are protected by copyright. 
 © 2018 by KAP1 Consulting Marcus de Heus e.K.</p>
 	</div>
 </div>
-	<div class="4u 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>PRVACY POLICY</h3>
 		<p>Thank you for your interest in KAP1 and our privacy policy. The security of your personal data and the protection of your privacy have the highest priority for us. The following information will inform you about the processing of your personal data by KAP1 Consulting Marcus de Heus e.K. (hereinafter referred to as "KAP1") and the rights to which you are entitled under data protection law. Personal data are all data with which you can be personally identified.<br>
 <br>
 Legal changes or changes to our internal company processes may result in an adaptation of this data protection declaration. We therefore ask you to read this data protection declaration regularly.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>DATA PROCESSOR responsible for data processing</h3>
 		<p>KAP1 Consulting Marcus de Heus e.K.<br>
 		Königsallee 14<br>
@@ -71,11 +71,11 @@ Legal changes or changes to our internal company processes may result in an adap
 		Phone: +49 211 13866-436<br>
 		info@kap1consulting.de.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>WHOSE data is collected</h3>
 		<p>The persons affected by the data processing can be divided into the following categories: Business partners, customers, applicants, interested parties and other visitors to our online service. The persons concerned are hereinafter referred to as "users", whereby the terms used, e.g. "users", are always to be understood gender-neutrally.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>WHAT data is collected</h3>
 		<p>Log files
 As everywhere on the Internet, data traces of your use remain on the servers of our web hosting service providers when you call up our pages for technical reasons. The following data is transmitted by your Internet browser and recorded in so-called log files:
@@ -103,11 +103,11 @@ correspondence and conversation data (e.g. e-mails, faxes, letters, notes on tel
 other usage data (e.g. websites visited on our website, interest in our services), meta/communication data (e.g. device information, IP addresses).</p>
 	</div>
 </div>
-		<div class="4u$ 12u$(medium)">
+		<div class="6u$ 12u$(small)">
 		<h3>HOW do we collect data?</h3>
 		<p>We primarily collect data by you communicating it to us. This may involve data that you enter in a contact form, send by e-mail or transmit to us by telephone. Other data is automatically collected by our IT systems when you visit our website. These are mainly technical data (e.g. Internet browser, operating system or time of the page call). This data is collected automatically as soon as you enter our website. Other data (e.g. contact information of business partners) come from publicly accessible sources such as the company website.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>CONTACT US</h3>
 		<p>When you contact us (e.g. by telephone, contact form or e-mail), your details including your contact data will be stored by us for the purpose of processing the enquiry and in the event of follow-up questions. We do not pass on this data without your consent.
 
@@ -115,11 +115,11 @@ The processing of the data transmitted to us will therefore take place exclusive
 
 The data you transmit to us will remain with us until you request deletion, revoke your consent to storage or the purpose for data storage no longer applies (e.g. after your request has been processed). Mandatory legal provisions - in particular retention periods - remain unaffected.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>WHAT is data used for?</h3>
 		<p>A part of the personal data is collected to ensure an error-free provision of our online offer. Other personal data is required for answering contact enquiries and for communication with users of our online and service offerings. We need other data for the qualified consultation of clients and candidates as well as for the filling of vacant positions with our clients with suitable candidates. In addition, we collect personal data for the purpose of providing contractual services, customer care and service, marketing, advertising and market research.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>DISCLOSURE to THIRD PARTIES</h3>
 		<p>Data will only be passed on to third parties within the framework of legal requirements. We only pass on user data to third parties if this is done, for example, on the basis of Art. 6 para. 1 lit. b. DSGVO is necessary for contractual purposes or on the basis of legitimate interests pursuant to Art. 6 Para. 1 lit. f. DSGVO in the economic and effective operation of our business.
 
@@ -129,15 +129,15 @@ If we use subcontractors to provide our services, we take appropriate legal prec
 
 We only transmit personal data to service providers and other third parties outside the European Economic Area (EEA) under certain conditions: The user has expressly given his consent to the transfer of data to a third country, or the EU Commission must confirm an appropriate level of data protection to the third country in question, or other appropriate data protection guarantees (e.g. binding internal company data protection regulations of the EU standard contract clauses) must be in place.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>COOKIES</h3>
 		<p>The protection of personal data is very important to us. Our highest priority is dealing with it in a trustworthy and transparent way. Cookies that are technically required enable the website's basic functionality and usability. Among other things, these cookies ensure smooth navigation on the site. Cookies store, for instance, the language you have selected. The legal basis for the use of these cookies is Art. 6 para. 1 of the European Union's General Data Protection Regulation (GDPR). We require this information in order to provide you with these online services.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>HYPERLINKS</h3>
 		<p>Some of our websites contain hyperlinks to websites of other providers. When activated, you will be redirected from our website directly to the website of other providers. You will recognize this by the change of URL, among other things. We cannot assume any responsibility for the handling of your data on these external websites, since we have no influence on the data processing of those companies. Please inform yourself directly on the websites of the companies about the use of your data.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>SECURITY MEASURES</h3>
 		<p>KAP1 takes organizational, contractual and technical security measures in accordance with the state of the art to ensure that the regulations of the data protection laws are observed and to protect the data processed by us against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons.
 
@@ -147,7 +147,7 @@ However, we would like to point out that, due to the structure of the Internet, 
 
 For this reason, every user is free to transmit personal data to us by alternative means, e.g. by telephone.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>WHAT RIGHTS DO YOU HAVE REGARDING YOUR DATA?</h3>
 		<p>Right of information<br>
 You have the right to request confirmation as to whether personal data relating to you are being processed and to request information about this data and further information and a copy of the data in accordance with Art. 15 DSGVO.
@@ -170,7 +170,7 @@ Many data processing operations are only possible with your express consent. You
 Right of objection<br>
 You may object at any time to the future processing of the data concerning you in accordance with Art. 21 DSGVO. In particular, you may object to the processing of your data for the purposes of direct marketing.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>DATA DELETION and DURATION OF STORAGE</h3>
 		<p>The data stored with us are deleted as soon as they are no longer required for their intended purpose (e.g. conclusion of a search mandate) and the deletion does not conflict with any statutory storage obligations or other legitimate interests of KAP1 - for example, an obligation to provide evidence in proceedings under the General Equal Treatment Act (Allgemeines Gleichbehandlungsgesetz - AGG) - or the user has expressly consented to longer storage.
 
@@ -178,13 +178,13 @@ If an applicant has declared his consent to the storage of his personal data in 
 
 If the user's data are not deleted because they are required for other and legally permissible purposes, their processing will be restricted. This means that the data will be blocked and not processed for other purposes. This applies, for example, to user data that must be stored for commercial or tax reasons.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>FURTHER country-specific information</h3>
 		<p>Our website is aimed at users over the age of 18.
 This website does not recognize or interact with "Do Not Track" signals.
 We will notify you of any changes to the Privacy Policy by posting our newer Privacy Policy on this website.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>PRIVACY OFFICER</h3>
 		<p>Your trust is extremely important to us. Therefore we are always available to answer your questions regarding the processing of your personal data. For example, you still have questions about this data protection declaration, want to delete your data or need information? Then please do not hesitate to contact us:
 
@@ -196,7 +196,7 @@ D-50968 Köln, Germany<br>
 Phone: +49 221 3172-2605<br>
 E-mail: peter-franken-dsb@t-online.de.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(small)">
 		<h3>State of the privacy policy</h3>
 		<p>January 2023</p>
 	</div>

@@ -40,7 +40,7 @@ Reg. Nr. 30517107.0, registered 21.10.2005<br>
 <br>
 Responsible according to / Verantwortlich i. S. d. § 55 Abs. 2 RStV<br>
 Marcus de Heus.</p>
-</div>
+
 	<div class="6u 12u$(small)">
 		<h3>PRIVACY</h3>
 		<p>The safety of your personal data, including your address, phone number or email, and the protection of your privacy are of the highest priority for us. For this reason, we conduct all of our web-based services in accordance with current privacy and data protection regulations.

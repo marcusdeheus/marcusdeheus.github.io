@@ -47,8 +47,14 @@ Marcus de Heus.</p>
 We will not collect any personal data via our website without your consent. You decide whether to disclose such data to us in the course of registering, ordering products etc. Your data will only be used, stored and processed to the extent required or permitted by your consent, by federal data protection regulations and/or any additional legal requirements.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>DISCLAIMER</h3>
+		<p>All rights reserved. All contents, images, illustrations and texts contained on these websites remains the property of KAP1 Consulting Marcus de Heus e.K. They represent the newest information available to us at the time of publication. We do not provide consultancy services on this website, nor does accessing this website constitute a consultancy relationship. We disclaim any liability or warranty for the accuracy, completeness and up-to-dateness of the data and information published on this website. This also applies to all other websites accessed via links on this website. Neither KAP1 Consulting Marcus de Heus e.K. nor any subsidiaries shall be liable for the content of such websites. These hyperlinked websites contain external content, which we have neither selected nor redacted.<br>
+<br>
+The information contained on this website shall in no way constitute any legal or actual commitments. KAP1 Consulting Marcus de Heus e.K. and any subsidiaries reserve the right to amend, delete or add to the information or data already published here at any time. No legal claims can be derived from the material published here. All offers (or parts thereof) are not binding and without obligation. Neither KAP1 Consulting Marcus de Heus e.K. and any subsidiaries shall be held liable for direct or indirect damages resulting from the use of the information or data published on this website. No rights and obligations shall exist between KAP1 Consulting Marcus de Heus e.K. and the user of this website or any third parties. If you request our consultancy or any other services from us, please approach us personally.<br>
+<br>
+The contents of KAP1 Consulting Marcus de Heus e.K. are protected by copyright. The use of these contents or parts thereof for purposes of reproduction, disclosure or publication, storage in an information retrieval system or further distribution requires prior written authorization.<br>
+<br>
+© 2018 by KAP1 Consulting Marcus de Heus e.K.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">

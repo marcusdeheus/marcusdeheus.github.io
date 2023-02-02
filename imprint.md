@@ -22,7 +22,7 @@ Marcus de Heus e.K.<br>
 Koenigsallee 14<br>
 D-40212 Duesseldorf<br>
 <br>
-Tel. +49 211 13866-436<br>
+Tel. +49 211 13866-444<br>
 Fax +49 211 13866-439<br>
 <br>
 info@kap1consulting.de<br>
@@ -66,7 +66,7 @@ Legal changes or changes to our internal company processes may result in an adap
 		<p>KAP1 Consulting Marcus de Heus e.K.<br>
 		Königsallee 14<br>
 		D-40212 Düsseldorf, Germany<br>
-		Phone: +49 211 13866-436<br>
+		Phone: +49 211 13866-444<br>
 		info@kap1consulting.de.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
